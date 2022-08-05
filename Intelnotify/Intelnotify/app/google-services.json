@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027745728315",
+    "project_id": "carcollection-26c81",
+    "storage_bucket": "carcollection-26c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027745728315:android:5bae7018bb76c02c9f591e",
+        "android_client_info": {
+          "package_name": "com.carcollation.firestorearchcomp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027745728315-26170ff56bns21m8csqnee4pk52nvjo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Z0CbfqjKkIuJcDwdKoCvYr4IUgkoOBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027745728315-26170ff56bns21m8csqnee4pk52nvjo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
